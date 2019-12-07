@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8E90-8C86
+
+ Directory of C:\Users\akshay\Desktop\MyProject
+
+07-12-2019  14:58    <DIR>          .
+07-12-2019  14:58    <DIR>          ..
+07-12-2019  14:58                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  895,028,649,984 bytes free
